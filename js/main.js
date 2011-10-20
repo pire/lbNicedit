@@ -1,0 +1,2 @@
+bkLib.onDomLoaded(nicEditors.allTextAreas);
+						
